@@ -26,19 +26,19 @@ AI Engineer • Full Stack Developer • Researcher
 
 > _"In a galaxy not so far away..."_
 
-I'm a **Computer Science (AI & ML)** student passionate about building intelligent software that solves real-world problems.
+A **CS** student passionate about building intelligent software that solves real-world problems.
 
 Currently exploring
 
-- 🤖 Generative AI
-- 🧠 Machine Learning
-- 🌐 Full Stack Development
-- 🚀 Research
-- ☁️ Cloud Technologies
+- Generative AI
+- Machine Learning
+- Full Stack Development
+- Research
+- Cloud Technologies
 
 ---
 
-# 👨‍💻 Jedi Developer
+# Jedi Developer
 
 ```python
 class JediDeveloper:
@@ -69,12 +69,12 @@ class JediDeveloper:
         return "May the Source be with You."
 
     def status(self):
-        return "Always Learning..."
+        return "Always Exploring..."
 ```
 
 ---
 
-# ⚔ Jedi Arsenal
+# Jedi Arsenal
 
 <p align="center">
 
@@ -84,37 +84,35 @@ class JediDeveloper:
 
 ---
 
-# 📚 Holocron Archive
+# Holocron Archive
 
-| Project                       | Description                            | Stack                   |
-| ----------------------------- | -------------------------------------- | ----------------------- |
-| 🩺 Medical Tricorder          | AI-powered medical diagnosis assistant | Python • Gemini • ML    |
-| 🌌 Star Wars Chatbot          | Chat with iconic Star Wars characters  | Flask • NLP • MongoDB   |
-| 📈 Portfolio Finance Analyzer | Live portfolio analytics dashboard     | Streamlit • Plotly      |
-| ☣ Poison Diagnosis            | Toxicology prediction system           | Python • Scikit-Learn   |
-| 🚙 EV Marketplace             | Electric vehicle trading platform      | HTML • CSS • JavaScript |
-
----
-
-# 🏆 Galactic Achievements
-
-🥈 Runner-up — HackVerse 3.0
-
-🥈 Runner-up — CodeFusion 2024
-
-🥈 Runner-up — InnovateX Hackathon
-
-📄 Published Research Paper on AI Companionship
-
-🎤 Trinity Communication Distinction
-
-🌍 World Scholar's Cup Finalist
-
-🎓 CGPA — **9.27 / 10**
+| Project                    | Description                            | Stack                   |
+| -------------------------- | -------------------------------------- | ----------------------- |
+| Medical Tricorder          | AI-powered medical diagnosis assistant | Python • Gemini • ML    |
+| Star Wars Chatbot          | Chat with iconic Star Wars characters  | Flask • NLP • MongoDB   |
+| Portfolio Finance Analyzer | Live portfolio analytics dashboard     | Streamlit • Plotly      |
+| Poison Diagnosis           | Toxicology prediction system           | Python • Scikit-Learn   |
+| EV Marketplace             | Electric vehicle trading platform      | HTML • CSS • JavaScript |
 
 ---
 
-# 📊 GitHub Analytics
+# Galactic Achievements
+
+Runner-up — HackVerse 3.0
+
+Runner-up — CodeFusion 2024
+
+Runner-up — InnovateX Hackathon
+
+Published Research Paper on AI Companionship
+
+Trinity Communication Distinction
+
+World Scholar's Cup Finalist
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
@@ -138,7 +136,7 @@ class JediDeveloper:
 
 ---
 
-# 📫 Reach Me
+# Reach Me
 
 <p align="center">
 
@@ -156,8 +154,8 @@ class JediDeveloper:
 
 <p align="center">
 
-> _"The Force will be with you. Always."_
+> _"The Force will be with you."_
 
-⭐ If you like my work, consider giving a star to my repositories.
+If you like my work, consider giving a star to my repositories.
 
 </p>
