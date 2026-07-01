@@ -22,7 +22,7 @@ AI Engineer • Full Stack Developer • Researcher
 
 ---
 
-# 👋 Hello There!
+# Well Hello There!
 
 > _"In a galaxy not so far away..."_
 
